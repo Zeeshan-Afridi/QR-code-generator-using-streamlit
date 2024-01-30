@@ -1,3 +1,2 @@
-streamlit
-qrcode
-io
+qrcode==7.4.2
+streamlit==1.30.0
