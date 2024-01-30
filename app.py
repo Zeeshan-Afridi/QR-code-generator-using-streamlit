@@ -64,7 +64,3 @@ with e.container():
             st.session_state.clear()
             e.empty()  # Clear the container
 
-# Footer and GitHub link
-st.markdown("---")
-st.write("This app is made with Streamlit and Python. Check out the code on GitHub!")
-st.markdown("[Link to GitHub Repo](https://github.com/your-username/qr-code-generator)")
